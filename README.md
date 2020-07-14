@@ -1,18 +1,18 @@
-### Hi there 👋
+```kotlin
+data class AndroidDeveloper(val firstName: String,
+                            val lastName: String,
+                            val age: Int,
+                            val school: String?,
+                            val company: String?,
+                            val location: String,
+                            val social: ArrayList<String>?)
 
-<p><img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">
-
-<!--
-**furkanaskin/furkanaskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+val androidDeveloper = AndroidDeveloper(
+                firstName = "Furkan",
+                lastName = "Aşkın",
+                age = 23,
+                school = "Istanbul Kultur University",
+                company = "Kuka Apps",
+                location = "Istanbul, TR",
+                social = arrayListOf("https://medium.com/@askinfurkan", "https://twitter.com/askinnfurkan"))
+```
