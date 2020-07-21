@@ -1,18 +1,1 @@
-```kotlin
-data class AndroidDeveloper(val firstName: String,
-                            val lastName: String,
-                            val age: Int,
-                            val school: String?,
-                            val company: String?,
-                            val location: String,
-                            val social: ArrayList<String>?)
-
-val androidDeveloper = AndroidDeveloper(
-                firstName = "Furkan",
-                lastName = "Aşkın",
-                age = 23,
-                school = "Istanbul Kultur University",
-                company = "Kuka Apps",
-                location = "Istanbul, TR",
-                social = arrayListOf("https://medium.com/@askinfurkan", "https://twitter.com/askinnfurkan"))
-```
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=furkanaskin&show_icons=true&theme=tokyonight)]
