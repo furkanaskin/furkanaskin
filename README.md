@@ -16,8 +16,6 @@
   <img align="left" alt="Furkan's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/steam.svg" />
 </a>
 
-#
-
 - 🎓 23 year old Maths & CS Undergrad student.
 - 📱 Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
