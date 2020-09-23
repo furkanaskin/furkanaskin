@@ -19,6 +19,8 @@
 <br />
 <br />
 
+# About me
+
 - 🎓 23 year old Maths & CS Undergrad student.
 - 📱 Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
@@ -28,7 +30,9 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=furkanaskin&show_icons=true&theme=tokyonight" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=furkanaskin&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
