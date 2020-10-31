@@ -25,7 +25,7 @@
 - 📱 Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan).
-- Loves playing [Dota2](https://steamcommunity.com/id/Liifestartsnow), [CS:GO](https://steamcommunity.com/id/Liifestartsnow)
+- 🎮 Loves playing [Dota2](https://steamcommunity.com/id/Liifestartsnow), [CS:GO](https://steamcommunity.com/id/Liifestartsnow)
 
 <br />
 <br />
