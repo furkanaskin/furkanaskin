@@ -12,7 +12,7 @@
 <a href="https://profile.codersrank.io/user/furkanaskin">
   <img align="left" alt="Nuh's Codersrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
 </a>
-<a href="https://steamcommunity.com/id/Liifestartsnow">
+<a href="https://steamcommunity.com/id/faskN">
   <img align="left" alt="Furkan's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/steam.svg" />
 </a>
 
@@ -25,7 +25,7 @@
 - 📱 Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan).
-- 🎮 Loves playing [Dota2](https://steamcommunity.com/id/Liifestartsnow), [CS:GO](https://steamcommunity.com/id/Liifestartsnow)
+- 🎮 Loves playing [Dota2](https://steamcommunity.com/id/faskN), [CS:GO](https://steamcommunity.com/id/faskN)
 
 <br />
 <br />
