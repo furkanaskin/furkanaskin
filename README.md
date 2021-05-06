@@ -21,7 +21,7 @@
 
 # About me
 
-- 🎓 23 year old Maths & CS Undergrad student.
+- 🎓 24 year old Maths & CS Undergrad student.
 - 📱 Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan).
