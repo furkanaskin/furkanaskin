@@ -35,6 +35,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling Component Changes Affected by Theme on Android](https://medium.com/ozan-superapp/handling-component-changes-affected-by-theme-on-android-c9cba3d9b178?source=rss-c29c499bb365------2)
+- [Custom tags for handling tokens with Retrofit on Android](https://medium.com/ozan-superapp/custom-tags-for-handling-tokens-with-retrofit-on-android-41176c50be0d?source=rss-c29c499bb365------2)
+- [A way of using Android Data Binding Library in form pages](https://medium.com/ozan-superapp/a-way-of-using-android-data-binding-library-in-form-pages-cdfd08bc7d22?source=rss-c29c499bb365------2)
+- [How to use Android Data Binding in custom views?](https://proandroiddev.com/how-to-use-android-data-binding-in-custom-views-a47676c4c1cd?source=rss-c29c499bb365------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> 
