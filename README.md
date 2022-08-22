@@ -22,13 +22,7 @@
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan).
 - 🎮 Loves playing [Dota2](https://steamcommunity.com/id/faskN), [CS:GO](https://steamcommunity.com/id/faskN)
-
 <br />
-<br />
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=furkanaskin&show_icons=true&theme=tokyonight" />
-</p>
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -37,6 +31,11 @@
 - [A way of using Android Data Binding Library in form pages](https://medium.com/ozan-superapp/a-way-of-using-android-data-binding-library-in-form-pages-cdfd08bc7d22?source=rss-c29c499bb365------2)
 - [How to use Android Data Binding in custom views?](https://proandroiddev.com/how-to-use-android-data-binding-in-custom-views-a47676c4c1cd?source=rss-c29c499bb365------2)
 <!-- BLOG-POST-LIST:END -->
+<br />
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=furkanaskin&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
