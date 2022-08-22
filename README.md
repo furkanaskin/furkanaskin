@@ -33,6 +33,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=furkanaskin&show_icons=true&theme=tokyonight" />
 </p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/furkanaskin/count.svg" />
