@@ -21,7 +21,6 @@
 - 📱 Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan).
-- 🎮 Big fan of [Apex Legends](https://steamcommunity.com/id/faskN) and really excited for [The Finals](https://www.reachthefinals.com).
 <br />
 
 📕 &nbsp;**Latest Blog Posts**
