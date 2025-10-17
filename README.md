@@ -37,6 +37,5 @@
 </p>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/furkanaskin/count.svg" />
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ffurkanaskin%2Ffurkanaskin&label=Visitors&icon=android&color=%231aa179&message=&style=for-the-badge&tz=Asia%2FIstanbul">
 </p>
