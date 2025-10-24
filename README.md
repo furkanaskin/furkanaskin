@@ -1,13 +1,13 @@
 ### Hi there, I'm Furkan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"></a>
 
 <a href="https://twitter.com/askinnfurkan">
-  <img align="left" alt="Furkan's Twitter | Twitter" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" />
+  <img align="left" alt="Furkan's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/furkanaskin/">
-  <img align="left" alt="Furkan's LinkedIn" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" />
+  <img align="left" alt="Furkan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://medium.com/@askinfurkan">
-  <img align="left" alt="Furkan's Medium" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" />
+  <img align="left" alt="Furkan's Medium" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
 </a>
 <a href="https://steamcommunity.com/id/faskN">
   <img align="left" alt="Furkan's Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" />
